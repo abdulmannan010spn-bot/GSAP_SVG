@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: monospace;
+}
+
+html,body{
+    height: 100%;
+    width: 100%;
+}
+
+
+.string{
+    height: 100%;
+    width: 100%;
+    
+
+}
+
+svg{
+
+    overflow: visible;
+}
+
+path{
+    stroke-width: 2;
+}
